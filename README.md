@@ -28,3 +28,7 @@ Product details, prices, variants and EMI plans are stored separately in a data 
 
 npm install
 npm run dev
+
+## Screenshot
+
+<img width="500" height="597" alt="Screenshot 2026-09-06 033302" src="https://github.com/user-attachments/assets/e60dbfe3-4434-41d8-81ee-15c3469cc173" />
